@@ -1,0 +1,24 @@
+Reflection:
+
+What were the benefits of using a context free grammar for your task domain?
+My example was very very general, but I feel that this could be very beneficial for musicians.
+There are some subtle but VERY important dos and don'ts that novice musicians don't really understand.
+If you're playing at a jazz gig, you should definitely not play autumn leaves as a tango, and although
+the sax solo in "In the mood" was originally improvised, you really need to play the solo in the Glenn Miller 
+recording. These things are very important to big jazz fans, and by using a context free grammar, we can
+make sure novices can learn these rules and not make fools of themselves.
+
+What were the down sides or difficulties of using a context free grammar for your task domain?
+A lot of the possibilities are obviously non-viable, and would never be used. If we were to build out more
+of these questions in this domain, we'd probably wan to make sure they don't come across as silly.
+
+What were the benefits of using a constraint based grading for your task domain?
+I feel like it's easier to give the user some direction, and gives them some things to think about and consider.
+Not only does it help them choose right answers, but it helps them consider the possibilities by
+just seeing the different possibilities.
+
+What were the down sides or difficulties of using a constraint based grading for your task domain?
+It's just a little difficult to think of and list all the possible constraints. If I you're not careful when
+constructing it, you could easily give a false positive as feedback, and that would be a little awkward
+if we were to encourage some un-acceptable behavior.
+

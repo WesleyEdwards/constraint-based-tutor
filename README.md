@@ -1,5 +1,8 @@
 ## Automated Feedback on English Statements in Precise Mathematical Writing
 
+## Note
+I probably should've forked this rather than creating a new repo, but I'll just leave it as is. i got it form https://github.com/jasonxia17/scaffolded-writing
+
 ### Motivation
 
 The problem that I am solving is building automated systems that can grade and give feedback on precise mathematical statements/definitions inputted by students. This skill is extremely important in theoretical computer science classes such as CS 374 (the required undergraduate Algorithms & Models of Computation course at UIUC).
